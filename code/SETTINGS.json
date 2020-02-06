@@ -1,0 +1,7 @@
+{
+    "RAW_DATA_DIR": "../input/data-science-bowl-2019", 
+    "CLEAN_DATA_DIR": "../input/processed",
+    "MODEL_DIR": "../models/", 
+    "LOGS_DIR": "./logs", 
+    "SUBMISSION_DIR": "../submissions/"
+}

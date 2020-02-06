@@ -1,0 +1,5 @@
+.
+./models
+./code
+./input
+./input/data-science-bowl-2019

@@ -32,6 +32,7 @@ You can use the `pip install -r requirements.txt` to install the necessary packa
 - GPU: 5 x NVIDIA RTX2080Ti 11G (2 GPUs in 1 PC)
 - RAM: 64G
 
+The above is just my PC spec. In fact, GTX 1080 is enough for training.
 
 ## Prepare Data
 You can generate `bowl.pt`, `bowl_info.pt` files by running `prepare_data.py`

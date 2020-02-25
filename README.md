@@ -5,7 +5,7 @@ Below you can find a outline of how to reproduce my solution for the 2019 Data S
 If you run into any trouble with the setup/code or have any questions please contact me at kfaceapi@gmail.com
 
 ## Archive contents
-- 3_solution.tgz : contains original code, trained models etc
+- 3rd_solution.tgz : contains original code, trained models etc
 ```
 3rd_solution/
 ├── input/
